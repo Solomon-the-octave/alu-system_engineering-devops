@@ -1,2 +1,2 @@
 # alu-system_engineering-devops
-project
+alu-system_engineering-devops
